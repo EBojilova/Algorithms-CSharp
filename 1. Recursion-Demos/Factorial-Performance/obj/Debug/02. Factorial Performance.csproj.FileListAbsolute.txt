@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\1. Recursion-Demos\Factorial-Performance\bin\Debug\Factorial-Performance.exe
+C:\Users\Elena\Downloads\1. Recursion-Demos\Factorial-Performance\bin\Debug\Factorial-Performance.pdb
+C:\Users\Elena\Downloads\1. Recursion-Demos\Factorial-Performance\obj\Debug\02. Factorial Performance.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\1. Recursion-Demos\Factorial-Performance\obj\Debug\Factorial-Performance.exe
+C:\Users\Elena\Downloads\1. Recursion-Demos\Factorial-Performance\obj\Debug\Factorial-Performance.pdb

@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\1. Recursion-Demos\PreActionsAndPostActions\bin\Debug\PreActionsAndPostActions.exe.config
+C:\Users\Elena\Downloads\1. Recursion-Demos\PreActionsAndPostActions\bin\Debug\PreActionsAndPostActions.exe
+C:\Users\Elena\Downloads\1. Recursion-Demos\PreActionsAndPostActions\bin\Debug\PreActionsAndPostActions.pdb
+C:\Users\Elena\Downloads\1. Recursion-Demos\PreActionsAndPostActions\obj\Debug\04. PreActionsAndPostActions-Traversal.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\1. Recursion-Demos\PreActionsAndPostActions\obj\Debug\PreActionsAndPostActions.exe
+C:\Users\Elena\Downloads\1. Recursion-Demos\PreActionsAndPostActions\obj\Debug\PreActionsAndPostActions.pdb

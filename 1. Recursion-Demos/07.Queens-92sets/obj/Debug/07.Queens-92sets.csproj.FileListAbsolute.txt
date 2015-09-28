@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\1. Recursion-Demos\07.Queens-92sets\bin\Debug\07.Queens-92sets.exe.config
+C:\Users\Elena\Downloads\1. Recursion-Demos\07.Queens-92sets\bin\Debug\07.Queens-92sets.exe
+C:\Users\Elena\Downloads\1. Recursion-Demos\07.Queens-92sets\bin\Debug\07.Queens-92sets.pdb
+C:\Users\Elena\Downloads\1. Recursion-Demos\07.Queens-92sets\obj\Debug\07.Queens-92sets.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\1. Recursion-Demos\07.Queens-92sets\obj\Debug\07.Queens-92sets.exe
+C:\Users\Elena\Downloads\1. Recursion-Demos\07.Queens-92sets\obj\Debug\07.Queens-92sets.pdb
