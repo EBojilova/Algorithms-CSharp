@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\03.Variations-without-Repetition\bin\Debug\03.Variations-without-Repetition.exe.config
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\03.Variations-without-Repetition\bin\Debug\03.Variations-without-Repetition.exe
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\03.Variations-without-Repetition\bin\Debug\03.Variations-without-Repetition.pdb
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\03.Variations-without-Repetition\obj\Debug\03.Variations-without-Repetition.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\03.Variations-without-Repetition\obj\Debug\03.Variations-without-Repetition.exe
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\03.Variations-without-Repetition\obj\Debug\03.Variations-without-Repetition.pdb

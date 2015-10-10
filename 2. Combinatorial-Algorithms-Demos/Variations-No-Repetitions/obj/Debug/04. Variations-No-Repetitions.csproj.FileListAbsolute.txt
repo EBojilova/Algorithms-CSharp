@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Variations-No-Repetitions\bin\Debug\Variations-No-Repetitions.exe
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Variations-No-Repetitions\bin\Debug\Variations-No-Repetitions.pdb
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Variations-No-Repetitions\obj\Debug\04. Variations-No-Repetitions.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Variations-No-Repetitions\obj\Debug\Variations-No-Repetitions.exe
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Variations-No-Repetitions\obj\Debug\Variations-No-Repetitions.pdb

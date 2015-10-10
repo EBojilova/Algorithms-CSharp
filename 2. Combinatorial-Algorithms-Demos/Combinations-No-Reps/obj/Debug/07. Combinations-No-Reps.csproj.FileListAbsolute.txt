@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Combinations-No-Reps\bin\Debug\Combinations-No-Reps.exe
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Combinations-No-Reps\bin\Debug\Combinations-No-Reps.pdb
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Combinations-No-Reps\obj\Debug\07. Combinations-No-Reps.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Combinations-No-Reps\obj\Debug\Combinations-No-Reps.exe
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Combinations-No-Reps\obj\Debug\Combinations-No-Reps.pdb

@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\03. Variations-No-Reps-Fast\bin\Debug\_03.Variations_No_Reps_Fast.exe.config
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\03. Variations-No-Reps-Fast\bin\Debug\_03.Variations_No_Reps_Fast.exe
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\03. Variations-No-Reps-Fast\bin\Debug\_03.Variations_No_Reps_Fast.pdb
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\03. Variations-No-Reps-Fast\obj\Debug\03. Variations-No-Reps-Fast.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\03. Variations-No-Reps-Fast\obj\Debug\_03.Variations_No_Reps_Fast.exe
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\03. Variations-No-Reps-Fast\obj\Debug\_03.Variations_No_Reps_Fast.pdb

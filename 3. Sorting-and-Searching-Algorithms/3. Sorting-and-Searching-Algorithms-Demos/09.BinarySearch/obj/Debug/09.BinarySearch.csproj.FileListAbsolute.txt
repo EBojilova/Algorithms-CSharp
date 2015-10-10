@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\09.BinarySearch\bin\Debug\09.BinarySearch.exe.config
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\09.BinarySearch\bin\Debug\09.BinarySearch.exe
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\09.BinarySearch\bin\Debug\09.BinarySearch.pdb
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\09.BinarySearch\obj\Debug\09.BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\09.BinarySearch\obj\Debug\09.BinarySearch.exe
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\09.BinarySearch\obj\Debug\09.BinarySearch.pdb

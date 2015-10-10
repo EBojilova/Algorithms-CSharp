@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\10.InterpolationSearch\bin\Debug\10.InterpolationSearch.exe.config
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\10.InterpolationSearch\bin\Debug\10.InterpolationSearch.exe
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\10.InterpolationSearch\bin\Debug\10.InterpolationSearch.pdb
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\10.InterpolationSearch\obj\Debug\10.InterpolationSearch.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\10.InterpolationSearch\obj\Debug\10.InterpolationSearch.exe
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\10.InterpolationSearch\obj\Debug\10.InterpolationSearch.pdb

@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\04.QuickSort-Partition\bin\Debug\04.QuickSort-Partition.exe.config
+c:\users\elena\documents\visual studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\04.QuickSort-Partition\bin\Debug\04.QuickSort-Partition.exe
+c:\users\elena\documents\visual studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\04.QuickSort-Partition\bin\Debug\04.QuickSort-Partition.pdb
+c:\users\elena\documents\visual studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\04.QuickSort-Partition\obj\Debug\04.QuickSort-Partition.exe
+c:\users\elena\documents\visual studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\04.QuickSort-Partition\obj\Debug\04.QuickSort-Partition.pdb

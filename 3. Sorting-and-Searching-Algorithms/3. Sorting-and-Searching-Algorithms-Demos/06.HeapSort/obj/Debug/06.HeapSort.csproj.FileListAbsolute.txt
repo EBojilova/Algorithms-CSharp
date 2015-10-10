@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\06.HeapSort\bin\Debug\06.HeapSort.exe.config
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\06.HeapSort\bin\Debug\06.HeapSort.exe
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\06.HeapSort\bin\Debug\06.HeapSort.pdb
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\06.HeapSort\obj\Debug\06.HeapSort.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\06.HeapSort\obj\Debug\06.HeapSort.exe
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\06.HeapSort\obj\Debug\06.HeapSort.pdb

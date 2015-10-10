@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\Algorithms\1. Recursion-Demos\AllPathsInLabyrinth\bin\Debug\AllPathsInLabyrinth.exe
+C:\Users\Elena\Downloads\Algorithms\1. Recursion-Demos\AllPathsInLabyrinth\bin\Debug\AllPathsInLabyrinth.pdb
+C:\Users\Elena\Downloads\Algorithms\1. Recursion-Demos\AllPathsInLabyrinth\obj\Debug\08. All Paths in Labyrinth.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\1. Recursion-Demos\AllPathsInLabyrinth\obj\Debug\AllPathsInLabyrinth.exe
+C:\Users\Elena\Downloads\Algorithms\1. Recursion-Demos\AllPathsInLabyrinth\obj\Debug\AllPathsInLabyrinth.pdb

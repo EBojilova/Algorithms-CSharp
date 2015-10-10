@@ -1,0 +1,9 @@
+c:\users\elena\documents\visual studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\05.MergeSort\bin\Debug\05.MergeSort.exe.config
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\05.MergeSort\bin\Debug\05.MergeSort.exe
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\05.MergeSort\bin\Debug\05.MergeSort.pdb
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\05.MergeSort\obj\Debug\05.MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\05.MergeSort\obj\Debug\05.MergeSort.exe
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\05.MergeSort\obj\Debug\05.MergeSort.pdb
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\05.MergeSort\bin\Debug\05.MergeSort.exe.config
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\05.MergeSort\obj\Debug\05.MergeSort.exe
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\05.MergeSort\obj\Debug\05.MergeSort.pdb

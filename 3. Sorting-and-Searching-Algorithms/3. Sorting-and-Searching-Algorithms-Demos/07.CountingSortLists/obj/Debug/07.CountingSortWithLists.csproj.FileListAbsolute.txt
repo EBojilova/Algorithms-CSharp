@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\08.BucketSort\bin\Debug\08.BucketSort.exe.config
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\08.BucketSort\bin\Debug\08.BucketSort.exe
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\08.BucketSort\bin\Debug\08.BucketSort.pdb
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\08.BucketSort\obj\Debug\07.CountingSortWithLists.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\08.BucketSort\obj\Debug\08.BucketSort.exe
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\08.BucketSort\obj\Debug\08.BucketSort.pdb

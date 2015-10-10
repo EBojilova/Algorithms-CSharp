@@ -1,0 +1,8 @@
+c:\users\elena\documents\visual studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\02.BubbleSort\bin\Debug\02.BubbleSort.exe.config
+c:\users\elena\documents\visual studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\02.BubbleSort\bin\Debug\02.BubbleSort.exe
+c:\users\elena\documents\visual studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\02.BubbleSort\bin\Debug\02.BubbleSort.pdb
+c:\users\elena\documents\visual studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\02.BubbleSort\obj\Debug\02.BubbleSort.exe
+c:\users\elena\documents\visual studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\02.BubbleSort\obj\Debug\02.BubbleSort.pdb
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\02.BubbleSort\bin\Debug\02.BubbleSort.exe.config
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\02.BubbleSort\obj\Debug\02.BubbleSort.exe
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\02.BubbleSort\obj\Debug\02.BubbleSort.pdb

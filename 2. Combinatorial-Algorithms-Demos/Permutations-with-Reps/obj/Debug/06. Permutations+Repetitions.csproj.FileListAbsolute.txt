@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Permutations-with-Reps\bin\Debug\Permutations-with-Reps.exe
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Permutations-with-Reps\bin\Debug\Permutations-with-Reps.pdb
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Permutations-with-Reps\obj\Debug\06. Permutations+Repetitions.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Permutations-with-Reps\obj\Debug\Permutations-with-Reps.exe
+C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Permutations-with-Reps\obj\Debug\Permutations-with-Reps.pdb

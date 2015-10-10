@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\07.CountingSortLists\bin\Debug\08.BucketSort.exe.config
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\07.CountingSortLists\obj\Debug\08.BucketSort.exe
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\07.CountingSortLists\obj\Debug\08.BucketSort.pdb
