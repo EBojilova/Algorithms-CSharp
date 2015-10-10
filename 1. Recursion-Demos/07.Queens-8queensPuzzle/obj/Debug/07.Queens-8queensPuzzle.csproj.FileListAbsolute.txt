@@ -4,3 +4,6 @@ C:\Users\Elena\Downloads\1. Recursion-Demos\07.Queens-8queensPuzzle\bin\Debug\07
 C:\Users\Elena\Downloads\1. Recursion-Demos\07.Queens-8queensPuzzle\obj\Debug\07.Queens-8queensPuzzle.csprojResolveAssemblyReference.cache
 C:\Users\Elena\Downloads\1. Recursion-Demos\07.Queens-8queensPuzzle\obj\Debug\07.Queens-8queensPuzzle.exe
 C:\Users\Elena\Downloads\1. Recursion-Demos\07.Queens-8queensPuzzle\obj\Debug\07.Queens-8queensPuzzle.pdb
+C:\Users\Elena\Downloads\Algorithms\1. Recursion-Demos\07.Queens-8queensPuzzle\bin\Debug\07.Queens-8queensPuzzle.exe.config
+C:\Users\Elena\Downloads\Algorithms\1. Recursion-Demos\07.Queens-8queensPuzzle\obj\Debug\07.Queens-8queensPuzzle.exe
+C:\Users\Elena\Downloads\Algorithms\1. Recursion-Demos\07.Queens-8queensPuzzle\obj\Debug\07.Queens-8queensPuzzle.pdb

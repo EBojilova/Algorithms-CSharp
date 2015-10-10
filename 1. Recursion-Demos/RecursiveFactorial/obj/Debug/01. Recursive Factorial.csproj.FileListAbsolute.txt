@@ -3,3 +3,5 @@ C:\Users\Elena\Downloads\1. Recursion-Demos\RecursiveFactorial\bin\Debug\Recursi
 C:\Users\Elena\Downloads\1. Recursion-Demos\RecursiveFactorial\obj\Debug\01. Recursive Factorial.csprojResolveAssemblyReference.cache
 C:\Users\Elena\Downloads\1. Recursion-Demos\RecursiveFactorial\obj\Debug\RecursiveFactorial.exe
 C:\Users\Elena\Downloads\1. Recursion-Demos\RecursiveFactorial\obj\Debug\RecursiveFactorial.pdb
+C:\Users\Elena\Downloads\Algorithms\1. Recursion-Demos\RecursiveFactorial\obj\Debug\RecursiveFactorial.exe
+C:\Users\Elena\Downloads\Algorithms\1. Recursion-Demos\RecursiveFactorial\obj\Debug\RecursiveFactorial.pdb

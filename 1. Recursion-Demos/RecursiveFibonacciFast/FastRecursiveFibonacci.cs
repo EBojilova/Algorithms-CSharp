@@ -1,36 +1,41 @@
-﻿using System;
-
-class FastRecursiveFibonacci
+﻿namespace RecursiveFibonacciFast
 {
-    const int MAX_FIBОNACCI_SEQUENCE_MEMBER = 1000;
-    static decimal[] fib = new decimal[MAX_FIBОNACCI_SEQUENCE_MEMBER];
+    using System;
 
-    static decimal recursiveCallsCounter = 0;
-
-    static decimal Fibonacci(int n)
+    internal class FastRecursiveFibonacci
     {
-        recursiveCallsCounter++;
-        if (fib[n] == 0)
+        private const int MaxFibоnacciSequenceMember = 1000;
+
+        // tuka sahraniavame vsichki reshenia i posle gi vzimame direktno
+        private static readonly decimal[] Fib = new decimal[MaxFibоnacciSequenceMember];
+
+        private static decimal recursiveCallsCounter;
+
+        private static void Main()
         {
-            // The value of fib[n] is still not calculated -> calculate it now
-            if ((n == 1) || (n == 2))
-            {
-                fib[n] = 1;
-            }
-            else
-            {
-                fib[n] = Fibonacci(n - 1) + Fibonacci(n - 2);
-            }
+            // num triabva da e po-malko ot MaxFibоnacciSequenceMember
+            var num = 100;
+            var fib = Fibonacci(num);
+            Console.WriteLine("Fib({0}) = {1}", num, fib);
+            Console.WriteLine("Recursive calls = {0}", recursiveCallsCounter);
         }
-        return fib[n];
-    }
 
-    static void Main()
-    {
-        int num = 100;
-        decimal fib = Fibonacci(num);
-        Console.WriteLine("Fib({0}) = {1}", num, fib);
-        Console.WriteLine("Recursive calls = {0}",
-            recursiveCallsCounter);
+        private static decimal Fibonacci(int n)
+        {
+            recursiveCallsCounter++;
+            // The value of fib[n] is still not calculated -> calculate it now
+            if (Fib[n] == 0)
+            {
+                if ((n == 1) || (n == 2))
+                {
+                    Fib[n] = 1;
+                }
+                else
+                {
+                    Fib[n] = Fibonacci(n - 1) + Fibonacci(n - 2);
+                }
+            }
+            return Fib[n];
+        }
     }
 }

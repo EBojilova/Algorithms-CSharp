@@ -1,27 +1,27 @@
-﻿using System;
-
-class RecursiveFibonacciSlow
+﻿namespace HarmfulRecursion
 {
-    static decimal Fibonacci(int n)
+    using System;
+
+    internal class RecursiveFibonacciSlow
     {
-        if ((n == 1) || (n == 2))
+        private static decimal Fibonacci(int n)
         {
-            return 1;
-        }
-        else
-        {
+            if ((n == 1) || (n == 2))
+            {
+                return 1;
+            }
             return Fibonacci(n - 1) + Fibonacci(n - 2);
         }
-    }
 
-    static void Main()
-    {
-		Console.Write("Fib(10) = ");
-		decimal fib10 = Fibonacci(10);
-        Console.WriteLine(fib10);
+        private static void Main()
+        {
+            Console.Write("Fib(10) = ");
+            var fib10 = Fibonacci(10);
+            Console.WriteLine(fib10);
 
-		Console.Write("Fib(50) = ");
-		decimal fib50 = Fibonacci(50);
-        Console.WriteLine(fib50);
+            Console.Write("Fib(50) = ");
+            var fib50 = Fibonacci(50);
+            Console.WriteLine(fib50);
+        }
     }
 }

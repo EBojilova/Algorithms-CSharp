@@ -3,3 +3,5 @@ C:\Users\Elena\Downloads\1. Recursion-Demos\Generating01Vectors\bin\Debug\Genera
 C:\Users\Elena\Downloads\1. Recursion-Demos\Generating01Vectors\obj\Debug\05. Generating 0-1 Vectors.csprojResolveAssemblyReference.cache
 C:\Users\Elena\Downloads\1. Recursion-Demos\Generating01Vectors\obj\Debug\Generating01Vectors.exe
 C:\Users\Elena\Downloads\1. Recursion-Demos\Generating01Vectors\obj\Debug\Generating01Vectors.pdb
+C:\Users\Elena\Downloads\Algorithms\1. Recursion-Demos\Generating01Vectors\obj\Debug\Generating01Vectors.exe
+C:\Users\Elena\Downloads\Algorithms\1. Recursion-Demos\Generating01Vectors\obj\Debug\Generating01Vectors.pdb

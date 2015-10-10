@@ -1,53 +1,58 @@
-﻿#define DEBUG_MODE
+﻿
+#define DEBUG_MODE
 
-using System;
-using System.Collections.Generic;
-
-class AllPathsInLabyrinth
+namespace AllPathsInLabyrinth
 {
-    static char[,] lab = 
-    {
-        {' ', ' ', ' ', '*', ' ', ' ', ' '},
-        {'*', '*', ' ', '*', ' ', '*', ' '},
-        {' ', ' ', ' ', ' ', ' ', ' ', ' '},
-        {' ', '*', '*', '*', '*', '*', ' '},
-        {' ', ' ', ' ', ' ', ' ', ' ', 'e'},
-    };
+    using System;
+    using System.Collections.Generic;
 
-	static List<char> path = new List<char>();
+    internal class AllPathsInLabyrinth
+    {
+        private static readonly char[,] Lab =
+            {
+                { ' ', ' ', ' ', 'X', ' ', ' ', ' ' },
+                { 'X', 'X', ' ', 'X', ' ', 'X', ' ' },
+                { ' ', ' ', ' ', ' ', ' ', ' ', ' ' },
+                { ' ', 'X', 'X', 'X', 'X', 'X', ' ' },
+                { ' ', ' ', ' ', ' ', ' ', ' ', 'e' }
+            };
 
-    static bool InRange(int row, int col)
-    {
-        bool rowInRange = row >= 0 && row < lab.GetLength(0);
-        bool colInRange = col >= 0 && col < lab.GetLength(1);
-        return rowInRange && colInRange;
-    }
-    
-    static void FindPathToExit(int row, int col, char direction)
-    {
-        #if DEBUG_MODE
+        private static readonly List<char> Path = new List<char>();
+
+        private static void Main()
+        {
+            FindPathToExit(0, 0, 'S');
+        }
+
+        private static void FindPathToExit(int row, int col, char direction)
+        {
+#if DEBUG_MODE
             PrintLabyrinth(row, col);
-        #endif
+#endif
 
-        if (!InRange(row, col))
-        {
-            // We are out of the labyrinth -> can't find a path
-            return;
-        }
+            if (!InRange(row, col))
+            {
+                // We are out of the labyrinth -> can't find a path
+                return;
+            }
 
-        // Append the current direction to the path
-        path.Add(direction);
+            // Append the current direction to the path
+            Path.Add(direction);
 
-        // Check if we have found the exit
-        if (lab[row,col] == 'e')
-        {
-            PrintPath(path);
-        }
+            // Check if we have found the exit
+            if (Lab[row, col] == 'e')
+            {
+                PrintPath(Path);
+            }
 
-        if (lab[row,col] == ' ')
-        {
+            // will return for all characters-e(exit),X(walls),s(occupied)
+            if (Lab[row, col] != ' ')
+            {
+                return;
+            }
+
             // Temporary mark the current cell as visited
-            lab[row,col] = 's';
+            Lab[row, col] = 's';
 
             // Recursively explore all possible directions
             FindPathToExit(row, col - 1, 'L'); // left
@@ -56,57 +61,59 @@ class AllPathsInLabyrinth
             FindPathToExit(row + 1, col, 'D'); // down
 
             // Mark back the current cell as free
-            lab[row,col] = ' ';
+            Lab[row, col] = ' ';
+
+            // Remove the last direction from the path
+            Path.RemoveAt(Path.Count - 1);
         }
 
-        // Remove the last direction from the path
-        path.RemoveAt(path.Count-1);
-    }
-
-    private static void PrintLabyrinth(int currentRow, int currentCol)
-    {
-        for (int row = -1; row <= lab.GetLength(0); row++)
+        private static bool InRange(int row, int col)
         {
-            Console.WriteLine();
-            for (int col = -1; col <= lab.GetLength(1); col++)
+            var rowInRange = row >= 0 && row < Lab.GetLength(0);
+            var colInRange = col >= 0 && col < Lab.GetLength(1);
+            return rowInRange && colInRange;
+        }
+
+        private static void PrintLabyrinth(int currentRow, int currentCol)
+        {
+            for (var row = -1; row <= Lab.GetLength(0); row++)
             {
-                if ((row == currentRow) && (col == currentCol))
+                Console.WriteLine();
+                for (var col = -1; col <= Lab.GetLength(1); col++)
                 {
-                    Console.BackgroundColor = ConsoleColor.Cyan;
-                    Console.Write("x");
-                    Console.BackgroundColor = ConsoleColor.Black;
-                }
-                else if (!InRange(row, col))
-                {
+                    if ((row == currentRow) && (col == currentCol))
+                    {
+                        Console.BackgroundColor = ConsoleColor.Cyan;
+                        Console.Write("x");
+                        Console.BackgroundColor = ConsoleColor.Black;
+                    }
+                    else if (!InRange(row, col))
+                    {
+                        Console.Write(" ");
+                    }
+                    else if (Lab[row, col] == ' ')
+                    {
+                        Console.Write("-");
+                    }
+                    else
+                    {
+                        Console.Write(Lab[row, col]);
+                    }
                     Console.Write(" ");
                 }
-                else if (lab[row, col] == ' ')
-                {
-                    Console.Write("-");
-                }
-                else
-                {
-                    Console.Write(lab[row, col]);
-                }
-                Console.Write(" ");
             }
+            Console.WriteLine();
+            Console.ReadKey();
         }
-        Console.WriteLine();
-        Console.ReadKey();
-    }
 
-    static void PrintPath(List<char> path)
-    {
-        Console.Write("Found path to the exit: ");
-		foreach (var dir in path)
-		{
-			Console.Write(dir);
-		}
-        Console.WriteLine();
-    }
-
-    static void Main()
-    {
-        FindPathToExit(0, 0, 'S');
+        private static void PrintPath(List<char> path)
+        {
+            Console.Write("Found path to the exit: ");
+            foreach (var dir in path)
+            {
+                Console.Write(dir);
+            }
+            Console.WriteLine();
+        }
     }
 }
