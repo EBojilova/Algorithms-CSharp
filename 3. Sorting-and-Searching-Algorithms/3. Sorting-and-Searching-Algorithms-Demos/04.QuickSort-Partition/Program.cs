@@ -3,7 +3,6 @@
     using System;
     using System.Collections.Generic;
 
-
     // Tova e nai-chesto izpolzvania sort, no ne za masivi pod 10 elementa, togava e po-dobre da se izpolzva insertion
     public class Test
     {
@@ -16,15 +15,22 @@
             PrintNumbers();
         }
 
-        private static List<int> RandomList(int size)
+        private static void MyQuickSort(int left, int right)
         {
-            var numbers = new List<int>(size);
-            var rand = new Random(1);
-            for (var i = 0; i < size; i++)
+            if (arr == null || arr.Count <= 1)
             {
-                numbers.Add(rand.Next(size));
+                return;
             }
-            return numbers;
+
+            if (left >= right)
+            {
+                return;
+            }
+
+            var pivotIdx = FindPivotIndex(left, right);
+            //PrintNumbers(arr);
+            MyQuickSort(left, pivotIdx - 1);
+            MyQuickSort(pivotIdx, right);
         }
 
         private static int FindPivotIndex(int left, int right)
@@ -52,37 +58,16 @@
 
                 if (left > right)
                 {
+                    // finalno sortrane ot liavo i ot diasno na pivota
                     arr[start] = arr[left - 1];
                     arr[left - 1] = pivot;
 
                     return left;
                 }
 
-                // razmeniame mestata na stoinostite ot liavo i ot diasno na pivota
+                // razmeniame mestata na stoinostite ot liavo i ot diasno na pivota-t.e sortirame
                 Swap(left, right);
             }
-        }
-
-        private static void MyQuickSort(int left, int right)
-        {
-            if (arr == null || arr.Count <= 1)
-            {
-                return;
-            }
-
-            if (left < right)
-            {
-                var pivotIdx = FindPivotIndex(left, right);
-                //Console.WriteLine("MQS " + left + " " + right);
-                //PrintNumbers(arr);
-                MyQuickSort(left, pivotIdx - 1);
-                MyQuickSort(pivotIdx, right);
-            }
-        }
-
-        private static void PrintNumbers()
-        {
-            Console.WriteLine(string.Join(" ", arr));
         }
 
         private static void Swap(int left, int right)
@@ -90,6 +75,22 @@
             var temp = arr[left];
             arr[left] = arr[right];
             arr[right] = temp;
+        }
+
+        private static List<int> RandomList(int size)
+        {
+            var numbers = new List<int>(size);
+            var rand = new Random(1);
+            for (var i = 0; i < size; i++)
+            {
+                numbers.Add(rand.Next(size));
+            }
+            return numbers;
+        }
+
+        private static void PrintNumbers()
+        {
+            Console.WriteLine(string.Join(" ", arr));
         }
     }
 }

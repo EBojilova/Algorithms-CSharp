@@ -3,7 +3,7 @@
     using System;
 
     // analogichno na binary serch, no mid se opredelia po-precizno
-    // po-barzo e ot lineinoto tarsene, no minusa e, che elementite triabva da sa sortirani i da sa ravnomerno razpredeleni
+    // po-barzo e ot lineinoto tarsene, no minusa e, che elementite triabva da sa sortirani i da sa ravnomerno razpredeleni(primerno pri povtariasti se elementi i takiva s razlichen gap ne sa podhodiasti)
     // ako gapa mejdu stoinostite na elementite e mnogo goliama, ne e podhodiast metod
     //ako imame edna baza danni, koiato v koiato riadko dobaviame i kato ia sortirame vednaj, 
     //posle barzo ste tarsim
@@ -23,6 +23,7 @@
         {
             while (min <= max)
             {
+                // otnositelno teglo
                 var mid = min + ((key - arr[min]) * (max - min)) / (arr[max] - arr[min]);
                 if (key == arr[mid])
                 {

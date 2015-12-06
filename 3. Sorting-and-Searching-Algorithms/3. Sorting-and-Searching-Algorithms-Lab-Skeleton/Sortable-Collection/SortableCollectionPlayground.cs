@@ -6,7 +6,7 @@
 
     public class SortableCollectionPlayground
     {
-        private static Random Random = new Random();
+        private static readonly Random Random = new Random();
 
         public static void Main(string[] args)
         {
@@ -15,13 +15,13 @@
 
             var array = new int[NumberOfElementsToSort];
 
-            for (int i = 0; i < NumberOfElementsToSort; i++)
+            for (var i = 0; i < NumberOfElementsToSort; i++)
             {
                 array[i] = Random.Next(MaxValue);
             }
 
             var collectionToSort = new SortableCollection<int>(array);
-            collectionToSort.Sort(new BucketSorter { Max = MaxValue });
+            collectionToSort.Sort(new BucketSorter(10));
 
             Console.WriteLine(collectionToSort);
 

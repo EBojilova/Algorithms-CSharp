@@ -11,8 +11,14 @@
     [TestClass]
     public class SortTests
     {
+        // When implementing and testing the rest of the classes, 
+        //remember to change the sorter with the one you want to test, e.g. MergeSorter<int>
         private static readonly ISorter<int> TestSorter = new Quicksorter<int>();
 
+        //private static readonly ISorter<int> TestSorter = new MergeSorter<int>();
+        //private static readonly ISorter<int> TestSorter = new InsertionSorter<int>();
+        //private static readonly ISorter<int> TestSorter = new HeapSorter<int>();
+        //private static readonly ISorter<int> TestSorter = new BucketSorter(10);
         private static readonly Random Random = new Random();
 
         [TestMethod]
@@ -72,13 +78,13 @@
             const int NumberOfAttempts = 10000;
             const int MaxNumberOfElements = 1000;
 
-            for (int i = 0; i < NumberOfAttempts; i++)
+            for (var i = 0; i < NumberOfAttempts; i++)
             {
                 var numberOfElements = Random.Next(0, MaxNumberOfElements + 1);
 
-                List<int> originalElements = new List<int>(MaxNumberOfElements);
+                var originalElements = new List<int>(MaxNumberOfElements);
 
-                for (int j = 0; j < numberOfElements; j++)
+                for (var j = 0; j < numberOfElements; j++)
                 {
                     originalElements.Add(Random.Next(int.MinValue, int.MaxValue));
                 }
@@ -89,8 +95,8 @@
                 collection.Sort(TestSorter);
 
                 CollectionAssert.AreEqual(
-                    originalElements, 
-                    collection.ToArray(), 
+                    originalElements,
+                    collection.ToArray(),
                     "Sort method should sort the elements in ascending order.");
             }
         }

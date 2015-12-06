@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.BinarySearch", "09.Binar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.InterpolationSearch", "10.InterpolationSearch\10.InterpolationSearch.csproj", "{71471B26-5F2E-4F4C-A6F8-75C5AAF14A47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.FisherYatesShuffleAlgorithm", "11.FisherYatesShuffleAlgorithm\11.FisherYatesShuffleAlgorithm.csproj", "{ADD16751-8DF7-4311-83DD-88C99C206CD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{71471B26-5F2E-4F4C-A6F8-75C5AAF14A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71471B26-5F2E-4F4C-A6F8-75C5AAF14A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71471B26-5F2E-4F4C-A6F8-75C5AAF14A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD16751-8DF7-4311-83DD-88C99C206CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD16751-8DF7-4311-83DD-88C99C206CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD16751-8DF7-4311-83DD-88C99C206CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD16751-8DF7-4311-83DD-88C99C206CD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

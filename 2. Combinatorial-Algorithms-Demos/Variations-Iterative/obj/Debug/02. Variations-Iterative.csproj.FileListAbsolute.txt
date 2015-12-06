@@ -1,5 +1,0 @@
-C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Variations-Iterative\bin\Debug\Variations-Iterative.exe
-C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Variations-Iterative\bin\Debug\Variations-Iterative.pdb
-C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Variations-Iterative\obj\Debug\02. Variations-Iterative.csprojResolveAssemblyReference.cache
-C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Variations-Iterative\obj\Debug\Variations-Iterative.exe
-C:\Users\Elena\Downloads\2. Combinatorial-Algorithms-Demos\Variations-Iterative\obj\Debug\Variations-Iterative.pdb

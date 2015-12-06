@@ -1,1 +1,7 @@
 c:\users\elena\documents\visual studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\03.InsertionSort\bin\Debug\03.InsertionSort.exe.config
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\03.InsertionSort\bin\Debug\03.InsertionSort.exe.config
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\03.InsertionSort\bin\Debug\03.InsertionSort.exe
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\03.InsertionSort\bin\Debug\03.InsertionSort.pdb
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\03.InsertionSort\obj\Debug\03.InsertionSort.exe
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\03.InsertionSort\obj\Debug\03.InsertionSort.pdb
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\03.InsertionSort\obj\Debug\03.InsertionSort.csprojResolveAssemblyReference.cache

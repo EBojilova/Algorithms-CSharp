@@ -1,4 +1,0 @@
-C:\Users\Elena\Downloads\Algorithms\2. Combinatorial-Algorithms-Demos\Binomial-Coefficients\bin\Debug\Binomial-Coefficients.exe
-C:\Users\Elena\Downloads\Algorithms\2. Combinatorial-Algorithms-Demos\Binomial-Coefficients\bin\Debug\Binomial-Coefficients.pdb
-C:\Users\Elena\Downloads\Algorithms\2. Combinatorial-Algorithms-Demos\Binomial-Coefficients\obj\Debug\Binomial-Coefficients.exe
-C:\Users\Elena\Downloads\Algorithms\2. Combinatorial-Algorithms-Demos\Binomial-Coefficients\obj\Debug\Binomial-Coefficients.pdb

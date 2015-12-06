@@ -3,3 +3,9 @@ c:\users\elena\documents\visual studio 2015\Projects\3. Sorting-and-Searching-Al
 c:\users\elena\documents\visual studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\04.QuickSort-Partition\bin\Debug\04.QuickSort-Partition.pdb
 c:\users\elena\documents\visual studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\04.QuickSort-Partition\obj\Debug\04.QuickSort-Partition.exe
 c:\users\elena\documents\visual studio 2015\Projects\3. Sorting-and-Searching-Algorithms-Demos\04.QuickSort-Partition\obj\Debug\04.QuickSort-Partition.pdb
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\04.QuickSort-Partition\bin\Debug\04.QuickSort-Partition.exe.config
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\04.QuickSort-Partition\obj\Debug\04.QuickSort-Partition.exe
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\04.QuickSort-Partition\obj\Debug\04.QuickSort-Partition.pdb
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\04.QuickSort-Partition\bin\Debug\04.QuickSort-Partition.exe
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\04.QuickSort-Partition\bin\Debug\04.QuickSort-Partition.pdb
+C:\Users\Elena\Downloads\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Demos\04.QuickSort-Partition\obj\Debug\04.QuickSort-Partition.csprojResolveAssemblyReference.cache
