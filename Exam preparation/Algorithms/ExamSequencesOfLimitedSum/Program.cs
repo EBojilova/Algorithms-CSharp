@@ -3,7 +3,6 @@
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    using System.Runtime.InteropServices;
     using System.Text;
 
     internal class SortedSubsetSums
@@ -38,14 +37,14 @@
 
             if (sum <= n && count > 0)
             {
-                for (int i = 0; i < count; i++)
+                for (var i = 0; i < count; i++)
                 {
                     resutlt.AppendFormat("{0} ", subset[i]);
                 }
                 resutlt.AppendLine();
             }
-            
-            for (var i = 0; i < numbers.Length; i++)
+
+            for (var i = 0; i < numbers.Length - sum; i++)
             {
                 subset.Add(numbers[i]);
                 sum += numbers[i];

@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamMessageSharing", "ExamM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceBetweenVerticesInnos", "DistanceBetweenVerticesInnos\DistanceBetweenVerticesInnos.csproj", "{296C3996-1679-4E50-97AD-E0C6136591C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamMessageSharingInnos2", "ExamMessageSharingInnos2\ExamMessageSharingInnos2.csproj", "{EFAEBD0E-AF2F-446C-B517-828181F3D8E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{296C3996-1679-4E50-97AD-E0C6136591C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{296C3996-1679-4E50-97AD-E0C6136591C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{296C3996-1679-4E50-97AD-E0C6136591C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFAEBD0E-AF2F-446C-B517-828181F3D8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAEBD0E-AF2F-446C-B517-828181F3D8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAEBD0E-AF2F-446C-B517-828181F3D8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAEBD0E-AF2F-446C-B517-828181F3D8E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

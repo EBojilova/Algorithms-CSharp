@@ -6,13 +6,11 @@ public class GraphConnectedComponents
 {
     private static List<int>[] graph;
 
-    private static bool[] visited;
+    private static int[] distances;
 
     private static List<string> names;
 
-    private static int countOfSteps;
-
-    private static List<int> lastReached;
+    private static List<string> startNames;
 
     public static void Main()
     {
@@ -50,87 +48,74 @@ public class GraphConnectedComponents
 
     private static void FindGraphConnectedComponents()
     {
-        visited = new bool[graph.Count()];
-        var startNames = Console.ReadLine()
+        distances = new int[names.Count];
+        for (var i = 0; i < names.Count; i++)
+        {
+            distances[i] = -1;
+        }
+        startNames = Console.ReadLine()
             .Replace("Start: ", "")
             .Split(new[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries)
             .ToList();
-        countOfSteps = 0;
-        for (var node = 0; node < startNames.Count; node++)
-        {
-            var graphIndex = names.IndexOf(startNames[node]);
-            if (!visited[graphIndex])
-            {
-                TraverseBFS(graphIndex);
-            }
-        }
+        TraverseBFS();
     }
 
-    //private static void RecursiveDFS(int node)
-    //{
-    //    countOfSteps++;
-    //    // mnogo e vajna tazi proverka, inache moje da zaciklim
-    //    if (!visited[node])
-    //    {
-    //        visited[node] = true;
-
-    //        lastReached = graph[node];
-    //        for (var i = 0; i < graph[node].Count; i++)
-    //        {
-    //            RecursiveDFS(graph[node][i]);
-    //        }
-
-    //    }
-    //}
-
-    private static void PrintResult()
-    {
-        var notReachedPeople = new List<string>();
-        for (var i = 0; i < visited.Count(); i++)
-        {
-            if (!visited[i])
-            {
-                notReachedPeople.Add(names[i]);
-            }
-        }
-        if (notReachedPeople.Count == 0)
-        {
-            Console.WriteLine("All people reached in {0} steps", countOfSteps);
-            Console.WriteLine("People at last step: {0}", string.Join(", ", lastReached.Select(i => names[i])));
-        }
-        else
-        {
-            Console.WriteLine("Cannot reach: {0}", string.Join(", ", notReachedPeople));
-        }
-    }
-
-    public static void TraverseBFS(int node)
+    public static void TraverseBFS()
     {
         // Queue e obhojdane v shirnia(BSF algoritam), dokato ako e Stack ste e obhojdane v dalbochina(DFS algoritam)
         var nodes = new Queue<int>();
+        for (var i = 0; i < startNames.Count; i++)
+        {
+            var graphIndex = names.IndexOf(startNames[i]);
+            // Enqueue the start node to the queue
+            distances[graphIndex] = 0;
+            nodes.Enqueue(graphIndex);
+        }
 
-        // Enqueue the start node to the queue
-        visited[node] = true;
-        nodes.Enqueue(node);
-        countOfSteps++;
-        
         // Breadth-First Search (BFS)
         while (nodes.Count != 0)
         {
             var currentNode = nodes.Dequeue();
-            if (graph[currentNode].Count > 0)
-            {
-                lastReached = graph[currentNode];
-            }
 
             foreach (var childNode in graph[currentNode])
             {
-                if (!visited[childNode])
+                if (distances[childNode] == -1)
                 {
+                    distances[childNode] = distances[currentNode] + 1;
                     nodes.Enqueue(childNode);
-                    visited[childNode] = true;
                 }
             }
+        }
+    }
+
+    private static void PrintResult()
+    {
+        var maxSteps = distances.Max();
+        var lastReached = new List<string>();
+        var notReachedPeople = new List<string>();
+        for (var i = 0; i < distances.Count(); i++)
+        {
+            if (distances[i] == -1)
+            {
+                notReachedPeople.Add(names[i]);
+            }
+            else
+            {
+                if (distances[i] == maxSteps)
+                {
+                    lastReached.Add(names[i]);
+                }
+            }
+        }
+        if (notReachedPeople.Count == 0)
+        {
+            Console.WriteLine("All people reached in {0} steps", maxSteps);
+
+            Console.WriteLine("People at last step: {0}", string.Join(", ", lastReached.OrderBy(n => n)));
+        }
+        else
+        {
+            Console.WriteLine("Cannot reach: {0}", string.Join(", ", notReachedPeople.OrderBy(n => n)));
         }
     }
 }
