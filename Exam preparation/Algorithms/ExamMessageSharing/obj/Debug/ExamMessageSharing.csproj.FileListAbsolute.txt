@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamMessageSharing\bin\Debug\ExamMessageSharing.exe.config
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamMessageSharing\bin\Debug\ExamMessageSharing.exe
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamMessageSharing\bin\Debug\ExamMessageSharing.pdb
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamMessageSharing\obj\Debug\ExamMessageSharing.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamMessageSharing\obj\Debug\ExamMessageSharing.exe
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamMessageSharing\obj\Debug\ExamMessageSharing.pdb

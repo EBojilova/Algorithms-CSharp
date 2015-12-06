@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\Topological-Sorting\bin\Debug\Topological-Sorting-DFS.exe
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\Topological-Sorting\bin\Debug\Topological-Sorting-DFS.pdb
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\Topological-Sorting\obj\Debug\3. Topological-Sorting.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\Topological-Sorting\obj\Debug\Topological-Sorting-DFS.exe
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\Topological-Sorting\obj\Debug\Topological-Sorting-DFS.pdb

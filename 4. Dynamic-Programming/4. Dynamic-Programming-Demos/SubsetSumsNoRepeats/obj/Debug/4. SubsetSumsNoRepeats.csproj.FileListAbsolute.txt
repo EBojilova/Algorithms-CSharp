@@ -1,0 +1,4 @@
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\SubsetSumsNoRepeats\bin\Debug\SubsetSumsBetter.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\SubsetSumsNoRepeats\bin\Debug\SubsetSumsBetter.pdb
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\SubsetSumsNoRepeats\obj\Debug\SubsetSumsBetter.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\SubsetSumsNoRepeats\obj\Debug\SubsetSumsBetter.pdb

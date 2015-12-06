@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamNonCrossingBridges\bin\Debug\ExamNonCrossingBridges.exe.config
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamNonCrossingBridges\bin\Debug\ExamNonCrossingBridges.exe
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamNonCrossingBridges\bin\Debug\ExamNonCrossingBridges.pdb
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamNonCrossingBridges\obj\Debug\ExamNonCrossingBridges.exe
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamNonCrossingBridges\obj\Debug\ExamNonCrossingBridges.pdb

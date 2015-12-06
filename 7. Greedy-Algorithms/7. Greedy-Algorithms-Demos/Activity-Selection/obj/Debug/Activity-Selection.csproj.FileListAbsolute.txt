@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Demos\Activity-Selection\bin\Debug\Greedy-Algorithms.exe
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Demos\Activity-Selection\bin\Debug\Greedy-Algorithms.pdb
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Demos\Activity-Selection\obj\Debug\Activity-Selection.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Demos\Activity-Selection\obj\Debug\Greedy-Algorithms.exe
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Demos\Activity-Selection\obj\Debug\Greedy-Algorithms.pdb

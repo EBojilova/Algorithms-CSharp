@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\0.FibonachiNumbers\bin\Debug\0.FibonachiNumbers.exe.config
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\0.FibonachiNumbers\bin\Debug\0.FibonachiNumbers.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\0.FibonachiNumbers\bin\Debug\0.FibonachiNumbers.pdb
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\0.FibonachiNumbers\obj\Debug\0.FibonachiNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\0.FibonachiNumbers\obj\Debug\0.FibonachiNumbers.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\0.FibonachiNumbers\obj\Debug\0.FibonachiNumbers.pdb

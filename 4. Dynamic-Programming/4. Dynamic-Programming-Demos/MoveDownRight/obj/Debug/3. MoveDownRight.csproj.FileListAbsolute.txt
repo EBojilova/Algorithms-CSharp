@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\MoveDownRight\bin\Debug\MoveDownRight.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\MoveDownRight\bin\Debug\MoveDownRight.pdb
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\MoveDownRight\obj\Debug\3. MoveDownRight.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\MoveDownRight\obj\Debug\MoveDownRight.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\MoveDownRight\obj\Debug\MoveDownRight.pdb

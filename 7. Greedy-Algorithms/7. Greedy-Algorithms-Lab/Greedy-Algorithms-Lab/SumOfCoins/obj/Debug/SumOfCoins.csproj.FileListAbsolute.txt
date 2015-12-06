@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SumOfCoins\bin\Debug\SumOfCoins.exe.config
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SumOfCoins\bin\Debug\SumOfCoins.exe
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SumOfCoins\bin\Debug\SumOfCoins.pdb
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SumOfCoins\obj\Debug\SumOfCoins.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SumOfCoins\obj\Debug\SumOfCoins.exe
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SumOfCoins\obj\Debug\SumOfCoins.pdb

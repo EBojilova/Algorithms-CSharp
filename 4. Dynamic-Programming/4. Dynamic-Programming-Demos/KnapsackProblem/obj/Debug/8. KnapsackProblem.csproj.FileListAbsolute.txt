@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\KnapsackProblem\bin\Debug\Knapsack-Problem.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\KnapsackProblem\bin\Debug\Knapsack-Problem.pdb
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\KnapsackProblem\obj\Debug\8. KnapsackProblem.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\KnapsackProblem\obj\Debug\Knapsack-Problem.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\KnapsackProblem\obj\Debug\Knapsack-Problem.pdb

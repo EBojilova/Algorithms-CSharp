@@ -1,0 +1,8 @@
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Lab\Dijkstra.Tests\bin\Debug\Dijkstra.Tests.dll
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Lab\Dijkstra.Tests\bin\Debug\Dijkstra.Tests.pdb
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Lab\Dijkstra.Tests\bin\Debug\Dijkstra.exe
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Lab\Dijkstra.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Lab\Dijkstra.Tests\bin\Debug\Dijkstra.pdb
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Lab\Dijkstra.Tests\obj\Debug\Dijkstra.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Lab\Dijkstra.Tests\obj\Debug\Dijkstra.Tests.dll
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Lab\Dijkstra.Tests\obj\Debug\Dijkstra.Tests.pdb

@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\SubSetSumsMatrix\bin\Debug\SubSetSums.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\SubSetSumsMatrix\bin\Debug\SubSetSums.pdb
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\SubSetSumsMatrix\obj\Debug\6. SubSetSumsMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\SubSetSumsMatrix\obj\Debug\SubSetSums.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\SubSetSumsMatrix\obj\Debug\SubSetSums.pdb

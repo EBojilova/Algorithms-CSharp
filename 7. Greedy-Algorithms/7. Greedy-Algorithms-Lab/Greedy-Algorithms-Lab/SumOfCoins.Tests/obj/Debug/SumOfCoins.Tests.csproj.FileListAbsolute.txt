@@ -1,0 +1,8 @@
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SumOfCoins.Tests\bin\Debug\SumOfCoins.Tests.dll
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SumOfCoins.Tests\bin\Debug\SumOfCoins.Tests.pdb
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SumOfCoins.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SumOfCoins.Tests\bin\Debug\SumOfCoins.exe
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SumOfCoins.Tests\bin\Debug\SumOfCoins.pdb
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SumOfCoins.Tests\obj\Debug\SumOfCoins.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SumOfCoins.Tests\obj\Debug\SumOfCoins.Tests.dll
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SumOfCoins.Tests\obj\Debug\SumOfCoins.Tests.pdb

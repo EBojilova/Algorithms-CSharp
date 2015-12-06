@@ -1,0 +1,12 @@
+c:\users\elena\documents\visual studio 2015\Projects\Algorithms\GroupPermutationsLetters\bin\Debug\GroupPermutationsLetters.exe.config
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\Algorithms\GroupPermutationsLetters\bin\Debug\GroupPermutationsLetters.exe
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\Algorithms\GroupPermutationsLetters\bin\Debug\GroupPermutationsLetters.pdb
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\Algorithms\GroupPermutationsLetters\obj\Debug\GroupPermutationsLetters.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\Algorithms\GroupPermutationsLetters\obj\Debug\GroupPermutationsLetters.exe
+C:\Users\Elena\Documents\Visual Studio 2015\Projects\Algorithms\GroupPermutationsLetters\obj\Debug\GroupPermutationsLetters.pdb
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsLetters\bin\Debug\GroupPermutationsLetters.exe.config
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsLetters\obj\Debug\GroupPermutationsLetters.exe
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsLetters\obj\Debug\GroupPermutationsLetters.pdb
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsLetters\bin\Debug\GroupPermutationsLetters.exe
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsLetters\bin\Debug\GroupPermutationsLetters.pdb
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsLetters\obj\Debug\GroupPermutationsLetters.csprojResolveAssemblyReference.cache

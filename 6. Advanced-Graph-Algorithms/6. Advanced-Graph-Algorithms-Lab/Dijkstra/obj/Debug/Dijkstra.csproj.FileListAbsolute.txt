@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Lab\Dijkstra\bin\Debug\Dijkstra.exe.config
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Lab\Dijkstra\bin\Debug\Dijkstra.exe
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Lab\Dijkstra\bin\Debug\Dijkstra.pdb
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Lab\Dijkstra\obj\Debug\Dijkstra.exe
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Lab\Dijkstra\obj\Debug\Dijkstra.pdb
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Lab\Dijkstra\obj\Debug\Dijkstra.csprojResolveAssemblyReference.cache

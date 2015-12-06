@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\SubsetSumsWithRepeats\bin\Debug\SubsetSumsBetter.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\SubsetSumsWithRepeats\bin\Debug\SubsetSumsBetter.pdb
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\SubsetSumsWithRepeats\obj\Debug\5. SubsetSumsWithRepeats.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\SubsetSumsWithRepeats\obj\Debug\SubsetSumsBetter.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\SubsetSumsWithRepeats\obj\Debug\SubsetSumsBetter.pdb

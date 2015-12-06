@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\Bridges\bin\Debug\Bridges.exe.config
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\Bridges\bin\Debug\Bridges.exe
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\Bridges\bin\Debug\Bridges.pdb
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\Bridges\obj\Debug\Bridges.exe
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\Bridges\obj\Debug\Bridges.pdb
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\Bridges\obj\Debug\Bridges.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\bin\Debug\SetCover.exe.config
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\bin\Debug\SetCover.exe
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\bin\Debug\SetCover.pdb
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\obj\Debug\SetCover.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\obj\Debug\SetCover.exe
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\obj\Debug\SetCover.pdb

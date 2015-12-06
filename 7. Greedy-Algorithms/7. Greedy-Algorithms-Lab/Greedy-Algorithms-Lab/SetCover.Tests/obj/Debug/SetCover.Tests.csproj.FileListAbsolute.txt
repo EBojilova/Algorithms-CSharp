@@ -1,0 +1,8 @@
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\bin\Debug\SetCover.Tests.dll
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\bin\Debug\SetCover.Tests.pdb
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\bin\Debug\SetCover.exe
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\bin\Debug\SetCover.pdb
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\obj\Debug\SetCover.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\obj\Debug\SetCover.Tests.dll
+C:\Users\Elena\Downloads\Algorithms\7. Greedy-Algorithms\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover.Tests\obj\Debug\SetCover.Tests.pdb

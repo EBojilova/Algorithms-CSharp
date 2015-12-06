@@ -1,0 +1,13 @@
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\QuickGraph-Example\bin\Debug\ExternalLibrary.exe
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\QuickGraph-Example\bin\Debug\ExternalLibrary.pdb
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\QuickGraph-Example\bin\Debug\QuickGraph.Data.dll
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\QuickGraph-Example\bin\Debug\QuickGraph.dll
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\QuickGraph-Example\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\QuickGraph-Example\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\QuickGraph-Example\bin\Debug\QuickGraph.xml
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\QuickGraph-Example\bin\Debug\QuickGraph.Data.xml
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\QuickGraph-Example\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\QuickGraph-Example\bin\Debug\QuickGraph.Serialization.xml
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\QuickGraph-Example\obj\Debug\05. QuickGraph-Example.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\QuickGraph-Example\obj\Debug\ExternalLibrary.exe
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\QuickGraph-Example\obj\Debug\ExternalLibrary.pdb

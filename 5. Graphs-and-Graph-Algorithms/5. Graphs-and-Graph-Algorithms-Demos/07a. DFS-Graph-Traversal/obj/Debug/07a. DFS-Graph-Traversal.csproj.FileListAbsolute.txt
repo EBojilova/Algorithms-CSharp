@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\07a. DFS-Graph-Traversal\bin\Debug\_07a.DFS_Graph_Traversal.exe.config
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\07a. DFS-Graph-Traversal\bin\Debug\_07a.DFS_Graph_Traversal.exe
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\07a. DFS-Graph-Traversal\bin\Debug\_07a.DFS_Graph_Traversal.pdb
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\07a. DFS-Graph-Traversal\obj\Debug\07a. DFS-Graph-Traversal.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\07a. DFS-Graph-Traversal\obj\Debug\_07a.DFS_Graph_Traversal.exe
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graphs-and-Graph-Algorithms-Demos\07a. DFS-Graph-Traversal\obj\Debug\_07a.DFS_Graph_Traversal.pdb

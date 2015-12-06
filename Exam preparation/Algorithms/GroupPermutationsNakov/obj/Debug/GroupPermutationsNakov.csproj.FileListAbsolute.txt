@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsNakov\bin\Debug\GroupPermutationsNakov.exe.config
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsNakov\bin\Debug\GroupPermutationsNakov.exe
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsNakov\bin\Debug\GroupPermutationsNakov.pdb
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsNakov\obj\Debug\GroupPermutationsNakov.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsNakov\obj\Debug\GroupPermutationsNakov.exe
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsNakov\obj\Debug\GroupPermutationsNakov.pdb

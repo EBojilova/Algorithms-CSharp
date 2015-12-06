@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamSequencesOfLimitedSum\bin\Debug\ExamSequencesOfLimitedSum.exe.config
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamSequencesOfLimitedSum\bin\Debug\ExamSequencesOfLimitedSum.exe
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamSequencesOfLimitedSum\bin\Debug\ExamSequencesOfLimitedSum.pdb
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamSequencesOfLimitedSum\obj\Debug\ExamSequencesOfLimitedSum.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamSequencesOfLimitedSum\obj\Debug\ExamSequencesOfLimitedSum.exe
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamSequencesOfLimitedSum\obj\Debug\ExamSequencesOfLimitedSum.pdb

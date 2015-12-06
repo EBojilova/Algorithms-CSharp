@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\MaxSeqRecursive\bin\Debug\LongestIncreasingSubsequenceRecursive.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\MaxSeqRecursive\bin\Debug\LongestIncreasingSubsequenceRecursive.pdb
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\MaxSeqRecursive\obj\Debug\2. LongestIncreasingSubsequenceRecursive.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\MaxSeqRecursive\obj\Debug\LongestIncreasingSubsequenceRecursive.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\MaxSeqRecursive\obj\Debug\LongestIncreasingSubsequenceRecursive.pdb

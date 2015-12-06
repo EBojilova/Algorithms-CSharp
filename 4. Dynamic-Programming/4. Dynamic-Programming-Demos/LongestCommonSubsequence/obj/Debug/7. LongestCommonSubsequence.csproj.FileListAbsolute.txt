@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\LongestCommonSubsequence\bin\Debug\LongestCommonSubsequence.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\LongestCommonSubsequence\bin\Debug\LongestCommonSubsequence.pdb
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\LongestCommonSubsequence\obj\Debug\LongestCommonSubsequence.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\LongestCommonSubsequence\obj\Debug\LongestCommonSubsequence.pdb
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\LongestCommonSubsequence\obj\Debug\7. LongestCommonSubsequence.csprojResolveAssemblyReference.cache

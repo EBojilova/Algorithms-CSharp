@@ -1,0 +1,8 @@
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\Topological-Sorting.Tests\bin\Debug\Topological-Sorting-DFS.Tests.dll
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\Topological-Sorting.Tests\bin\Debug\Topological-Sorting-DFS.Tests.pdb
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\Topological-Sorting.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\Topological-Sorting.Tests\bin\Debug\Topological-Sorting-DFS.exe
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\Topological-Sorting.Tests\bin\Debug\Topological-Sorting-DFS.pdb
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\Topological-Sorting.Tests\obj\Debug\4. Topological-Sorting.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\Topological-Sorting.Tests\obj\Debug\Topological-Sorting-DFS.Tests.dll
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\Topological-Sorting.Tests\obj\Debug\Topological-Sorting-DFS.Tests.pdb

@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsFilip\bin\Debug\GroupPermutationsFilip.exe.config
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsFilip\bin\Debug\GroupPermutationsFilip.exe
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsFilip\bin\Debug\GroupPermutationsFilip.pdb
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsFilip\obj\Debug\GroupPermutationsFilip.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsFilip\obj\Debug\GroupPermutationsFilip.exe
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\GroupPermutationsFilip\obj\Debug\GroupPermutationsFilip.pdb

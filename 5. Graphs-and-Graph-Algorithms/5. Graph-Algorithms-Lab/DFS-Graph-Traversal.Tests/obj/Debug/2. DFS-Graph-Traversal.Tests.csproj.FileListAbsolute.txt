@@ -1,0 +1,8 @@
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\DFS-Graph-Traversal.Tests\bin\Debug\DFS-Graph-Traversal.Tests.dll
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\DFS-Graph-Traversal.Tests\bin\Debug\DFS-Graph-Traversal.Tests.pdb
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\DFS-Graph-Traversal.Tests\bin\Debug\Graph-Traversal.exe
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\DFS-Graph-Traversal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\DFS-Graph-Traversal.Tests\bin\Debug\Graph-Traversal.pdb
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\DFS-Graph-Traversal.Tests\obj\Debug\2. DFS-Graph-Traversal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\DFS-Graph-Traversal.Tests\obj\Debug\DFS-Graph-Traversal.Tests.dll
+C:\Users\Elena\Downloads\Algorithms\5. Graphs-and-Graph-Algorithms\5. Graph-Algorithms-Lab\DFS-Graph-Traversal.Tests\obj\Debug\DFS-Graph-Traversal.Tests.pdb

@@ -1,0 +1,5 @@
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Demos\Prim-Priority-Queue\bin\Debug\PrimAlgrithm.exe
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Demos\Prim-Priority-Queue\bin\Debug\PrimAlgrithm.pdb
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Demos\Prim-Priority-Queue\obj\Debug\2. Prim-Algorithm-Priority-Queue.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Demos\Prim-Priority-Queue\obj\Debug\PrimAlgrithm.exe
+C:\Users\Elena\Downloads\Algorithms\6. Advanced-Graph-Algorithms\6. Advanced-Graph-Algorithms-Demos\Prim-Priority-Queue\obj\Debug\PrimAlgrithm.pdb

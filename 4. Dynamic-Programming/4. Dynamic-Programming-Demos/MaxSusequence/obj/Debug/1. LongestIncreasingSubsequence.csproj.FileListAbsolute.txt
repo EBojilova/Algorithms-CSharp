@@ -1,0 +1,10 @@
+C:\Users\Elena\Downloads\4. Dynamic-Programming-Demos\MaxSusequence\bin\Debug\LongestIncreasingSubsequence.exe
+C:\Users\Elena\Downloads\4. Dynamic-Programming-Demos\MaxSusequence\bin\Debug\LongestIncreasingSubsequence.pdb
+C:\Users\Elena\Downloads\4. Dynamic-Programming-Demos\MaxSusequence\obj\Debug\1. LongestIncreasingSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\4. Dynamic-Programming-Demos\MaxSusequence\obj\Debug\LongestIncreasingSubsequence.exe
+C:\Users\Elena\Downloads\4. Dynamic-Programming-Demos\MaxSusequence\obj\Debug\LongestIncreasingSubsequence.pdb
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\MaxSusequence\obj\Debug\LongestIncreasingSubsequence.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\MaxSusequence\obj\Debug\LongestIncreasingSubsequence.pdb
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\MaxSusequence\bin\Debug\LongestIncreasingSubsequence.exe
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\MaxSusequence\bin\Debug\LongestIncreasingSubsequence.pdb
+C:\Users\Elena\Downloads\Algorithms\4. Dynamic-Programming\4. Dynamic-Programming-Demos\MaxSusequence\obj\Debug\1. LongestIncreasingSubsequence.csprojResolveAssemblyReference.cache

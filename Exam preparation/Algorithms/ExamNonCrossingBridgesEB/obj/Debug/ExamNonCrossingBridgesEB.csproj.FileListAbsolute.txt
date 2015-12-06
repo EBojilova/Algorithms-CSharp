@@ -1,0 +1,6 @@
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamNonCrossingBridgesEB\bin\Debug\ExamNonCrossingBridgesEB.exe.config
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamNonCrossingBridgesEB\bin\Debug\ExamNonCrossingBridgesEB.exe
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamNonCrossingBridgesEB\bin\Debug\ExamNonCrossingBridgesEB.pdb
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamNonCrossingBridgesEB\obj\Debug\ExamNonCrossingBridgesEB.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamNonCrossingBridgesEB\obj\Debug\ExamNonCrossingBridgesEB.exe
+C:\Users\Elena\Downloads\Algorithms\Exam preparation\Algorithms\ExamNonCrossingBridgesEB\obj\Debug\ExamNonCrossingBridgesEB.pdb
